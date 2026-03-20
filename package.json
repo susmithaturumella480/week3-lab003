@@ -1,0 +1,23 @@
+{
+  "name": "week3-lab003",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susmithaturumella480/week3-lab003.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susmithaturumella480/week3-lab003/issues"
+  },
+  "homepage": "https://github.com/susmithaturumella480/week3-lab003#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
